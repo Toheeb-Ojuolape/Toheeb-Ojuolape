@@ -1,10 +1,7 @@
-#### Hi there 👋
+### Hi there 👋
 
 ## My name is Tobi Toheeb Ojuolape and I am a full-stack software engineer based in Lagos, Nigeria
-<!--
-**Toheeb-Ojuolape/Toheeb-Ojuolape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Lightning, Flutter and GOlang...
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email: tobilobaojuolape@gmail.com ...
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I'm a southpaw 😉 ...
--->
+
