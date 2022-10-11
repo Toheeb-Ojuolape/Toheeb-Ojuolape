@@ -16,4 +16,11 @@
 
 
 
-(https://github-readme-stats.vercel.app/api?username=toheeb-ojuolape)](https://github.com/toheeb-ojuolape/github-readme-stats)
+## Github Stats 
+[![Toheeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toheeb-Ojuolape&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb-Ojuolape&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toheeb-Ojuolape&theme=dark&hide_border=true)](https://git.io/streak-stats)
