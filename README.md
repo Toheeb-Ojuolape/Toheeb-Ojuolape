@@ -14,3 +14,6 @@
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I'm a southpaw 😉 ...
 
+
+
+(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Toheeb-Ojuolape/github-readme-stats)
