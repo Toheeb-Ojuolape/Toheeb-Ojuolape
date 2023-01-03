@@ -1,6 +1,6 @@
 Hi there 👋
 
-# My name is Toheeb Ojuolape
+# My name is Tobi Ojuolape
 
 ##### I am a full-stack software engineer based in Lagos, Nigeria
 
