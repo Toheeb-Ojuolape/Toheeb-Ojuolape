@@ -23,8 +23,8 @@
 ## Top Languages 
 
 <td rowspan="2" align="center">
-  <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb-Ojuolape&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+  <a href="https://github.com/Toheeb-Ojuolape#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb-Ojuolape&theme=default&langs_count=10#gh-light-mode-only" alt="My GitHub Stats"/>
   </a>
 
 ## Github Streak
