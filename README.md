@@ -21,7 +21,6 @@
 [![Toheeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toheeb-Ojuolape&theme=light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb-Ojuolape&layout=compact&theme=light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <td rowspan="2" align="center">
   <a href="https://github.com/dimmasyusuf#gh-light-mode-only">
