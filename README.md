@@ -22,10 +22,7 @@
 
 ## Top Languages 
 
-<td rowspan="2" align="center">
-  <a href="https://github.com/Toheeb-Ojuolape#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb-Ojuolape&theme=stacked&langs_count=10#gh-light-mode-only" alt="My GitHub Stats"/>
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toheeb-Ojuolape&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toheeb-Ojuolape&theme=light&hide_border=true)](https://git.io/streak-stats)
