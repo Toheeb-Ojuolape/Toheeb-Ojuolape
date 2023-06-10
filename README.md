@@ -1,4 +1,4 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
+## Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
 
 # My name is Tobi Ojuolape
 
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Bitcoin/Lightning projects, creator apps, community-based projects like chat and games.
 - 🤔 I’m looking for opportunities to connect with other software engineers.
 - 💬 Ask me about Javascript, Typescript, APIs and Frontend development, Mobile development.
-- 📫 How to reach me: email: tobilobaojuolape@gmail.com .
+- 📫 How to reach me: email: tobilobaojuolape@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm a southpaw 😉 .
 - 🗞️ Read my blog here: https://tobiojuolape.hashnode.dev
