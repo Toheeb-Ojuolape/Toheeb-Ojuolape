@@ -5,7 +5,7 @@
 ##### I am a full-stack software engineer based in Lagos, Nigeria
 
 
-- 🔭 I’m currently working on: Building technology to simplify payment, build communities and monetize content.
+- 🔭 I’m currently working on: Building technology to simplify payment, foster community and monetize content.
 - 🌱 I’m currently learning: Bitcoin,Lightning, Rust and Golang.
 - 👯 I’m looking to collaborate on Bitcoin/Lightning projects, creator apps, community-based projects like chat and games.
 - 🤔 I’m looking for opportunities to connect with other software engineers.
