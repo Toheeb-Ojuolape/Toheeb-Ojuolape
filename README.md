@@ -14,6 +14,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm a southpaw 😉 .
 - 🗞️ Read my blog here: https://tobiojuolape.hashnode.dev
+- Checkout my project portfolio: https://toheeb.disha.page
 
 
 
