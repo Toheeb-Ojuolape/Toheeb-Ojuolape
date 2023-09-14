@@ -12,9 +12,10 @@
 - 💬 Ask me about Javascript, Typescript, APIs and Frontend development, Mobile development.
 - 📫 How to reach me: email: tobilobaojuolape@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm a southpaw 😉 .
+- 😉 Fun fact: I'm a southpaw.
 - 🗞️ Read my blog here: https://tobiojuolape.hashnode.dev
 - 🎖️ Checkout my project portfolio: https://toheeb.disha.page
+- ⚡Send me a tip ⚡toheeb@getalby.com
 
 
 
