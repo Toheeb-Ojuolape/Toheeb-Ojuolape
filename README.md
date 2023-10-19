@@ -2,7 +2,7 @@
 
 # My name is Tobi Ojuolape
 
-##### I am a full-stack software engineer based in Lagos, Nigeria
+##### I am a full-stack software engineer based in Derby, England
 
 
 - 🔭 I’m currently working on: Building technology to simplify payment, foster community and monetize content.
