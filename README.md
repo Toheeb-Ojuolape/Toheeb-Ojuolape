@@ -2,9 +2,9 @@
 
 I am a fullstack software engineer based in Derby, England
 
-- 🔭 I’m currently working on: Building technology to simplify payment, foster community and monetize content.
-- 🌱 I’m currently learning: Bitcoin,Lightning, Golang and Rust.
-- 👯 I’m looking to collaborate on Bitcoin/Lightning projects, creator apps, community-based projects like chat and games.
+- 🔭 I’m currently working on: Building technology to fix climate change, make energy better, simplify payment, foster community and monetize content.
+- 🌱 I’m currently learning: AI, Golang and Rust.
+- 👯 I’m looking to collaborate on Energy projects, AI projects, Bitcoin/Lightning projects, creator apps, community-based projects like chat and games.
 - 🤔 I’m looking for opportunities to connect with other software engineers.
 - 💬 Ask me about Javascript, Typescript, APIs and Frontend development, Mobile development.
 - 📫 How to reach me: email: tobilobaojuolape@gmail.com.
