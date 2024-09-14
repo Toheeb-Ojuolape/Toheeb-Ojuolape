@@ -1,6 +1,6 @@
 # Hi, I'm Tobi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
 
-I am a fullstack software engineer based in Derby, England
+I am a fullstack software engineer, Bitcoin/Lightning developer and AI/Energy researcher 🤓
 
 - 🔭 I’m currently working on: Building technology to fix climate change, make energy better, simplify payment, foster community and monetize content.
 - 🌱 I’m currently learning: AI, Golang and Rust.
