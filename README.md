@@ -11,7 +11,7 @@ I am a fullstack software engineer, Bitcoin/Lightning developer and AI/Energy re
 - 😄 Pronouns: He/Him.
 - 😉 Fun fact: I'm a southpaw.
 - 🗞️ Read my blog here: https://tobiojuolape.hashnode.dev
-- 🎖️ Checkout my project portfolio: https://toheeb.disha.page
+- 🎖️ Checkout my project portfolio: https://toheeb-ojuolape.github.io
 - ⚡Send me a tip ⚡toheeb@getalby.com
 
 
